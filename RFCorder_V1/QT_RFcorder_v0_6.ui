@@ -283,9 +283,9 @@ image: url(:/Logo/Logofield/Logofield_rec2.png);</string>
                </rect>
               </property>
               <property name="styleSheet">
-               <string notr="true">background-image: url(:/buttonicons/recorderbuttons/pause_v4.PNG);
-image: url(:/buttonicons/recorderbuttons/pause_v4.PNG);
-border-image: url(:/buttonicons/recorderbuttons/pause_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/pause_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/pause_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/pause_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -390,9 +390,9 @@ border-image: url(:/buttonicons/recorderbuttons/pause_v4.PNG);</string>
                </rect>
               </property>
               <property name="styleSheet">
-               <string notr="true">background-image: url(:/buttonicons/recorderbuttons/play_v4.PNG);
-border-image: url(:/buttonicons/recorderbuttons/play_v4.PNG);
-image: url(:/buttonicons/recorderbuttons/play_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/play_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/play_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/play_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -512,9 +512,9 @@ image: url(:/buttonicons/recorderbuttons/play_v4.PNG);</string>
                <bool>false</bool>
               </property>
               <property name="styleSheet">
-               <string notr="true">background-image: url(:/buttonicons/recorderbuttons/stop_v4.PNG);
-border-image: url(:/buttonicons/recorderbuttons/stop_v4.PNG);
-image: url(:/buttonicons/recorderbuttons/stop_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/stop_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/stop_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/stop_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -619,9 +619,9 @@ image: url(:/buttonicons/recorderbuttons/stop_v4.PNG);</string>
                </rect>
               </property>
               <property name="styleSheet">
-               <string notr="true">border-image: url(:/buttonicons/recorderbuttons/ff_v4.PNG);
-image: url(:/buttonicons/recorderbuttons/ff_v4.PNG);
-background-image: url(:/buttonicons/recorderbuttons/ff_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/ff_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/ff_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/ff_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -741,9 +741,9 @@ background-image: url(:/buttonicons/recorderbuttons/ff_v4.PNG);</string>
                <bool>false</bool>
               </property>
               <property name="styleSheet">
-               <string notr="true">background-image: url(:/buttonicons/recorderbuttons/rec_v4.PNG);
-border-image: url(:/buttonicons/recorderbuttons/rec_v4.PNG);
-image: url(:/buttonicons/recorderbuttons/rec_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/rec_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/rec_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/rec_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -851,9 +851,9 @@ image: url(:/buttonicons/recorderbuttons/rec_v4.PNG);</string>
                </rect>
               </property>
               <property name="styleSheet">
-               <string notr="true">image: url(:/buttonicons/recorderbuttons/rew_v4.PNG);
-background-image: url(:/buttonicons/recorderbuttons/rew_v4.PNG);
-border-image: url(:/buttonicons/recorderbuttons/rew_v4.PNG);</string>
+               <string notr="true">background-image: url(:/buttonicons/recorderbuttons_V1/rew_v4.PNG);
+border-image: url(:/buttonicons/recorderbuttons_V1/rew_v4.PNG);
+image: url(:/buttonicons/recorderbuttons_V1/rew_v4.PNG);</string>
               </property>
               <property name="text">
                <string/>
@@ -2056,7 +2056,7 @@ border-image: url(:/buttonicons/recorderbuttons/rew_v4.PNG);</string>
      <x>0</x>
      <y>0</y>
      <width>1071</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>
