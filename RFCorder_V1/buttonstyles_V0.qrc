@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="buttonicons">
+    <file>recorderbuttons_V1/ff_v4.PNG</file>
+    <file>recorderbuttons_V1/pause_v4.PNG</file>
+    <file>recorderbuttons_V1/play_v4.PNG</file>
+    <file>recorderbuttons_V1/rec_v4.PNG</file>
+    <file>recorderbuttons_V1/rew_v4.PNG</file>
+    <file>recorderbuttons_V1/stop_v4.PNG</file>
+  </qresource>
+</RCC>

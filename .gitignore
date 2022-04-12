@@ -1,0 +1,5 @@
+#ignore
+
+/docs/build
+/docs/source/_templates
+/RFCorder_V1/__pycache__
