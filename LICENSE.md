@@ -1,4 +1,26 @@
-                    GNU GENERAL PUBLIC LICENSE
+                   Project RFCorder (COHIRADIA)
+
+Copyright (C) 2022,  Hermann Scharfetter
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+attached GNU General Public License for more details.
+
+A small part of the software (communication interface with the RedPitaya STEMLAB125-14)
+has been obtained from Pavel Demin who has distributed the code under the MIT license.
+His respective license file is available under:
+https://github.com/pavel-demin/red-pitaya-notes/blob/master/LICENSE 
+
+                   
+                   
+                   
+                   GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
